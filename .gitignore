@@ -1,0 +1,20 @@
+# Discord Bot Files (Local Only)
+index.js
+package.json
+package-lock.json
+node_modules/
+
+# Database/Config Files (Auto-generated)
+keys.json
+database.json
+settings.json
+.env
+
+# System Files
+.DS_Store
+*.log
+.vscode/
+.idea/
+
+# Dependencies
+node_modules/
